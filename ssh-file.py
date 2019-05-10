@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-Grant/revoke SSH access for a group of server instances by fetching their public key from the server.
+''' Grant/revoke SSH access for a group of server instances by fetching their public key from the server.'''
 
 import shlex
 import socket
